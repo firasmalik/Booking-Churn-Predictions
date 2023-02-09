@@ -147,7 +147,7 @@ def main():
     avg_price_per_room,
     no_of_special_req)
     
-    st.success('The customer has high probability the it will {}'.format(result))
+        st.success('The customer has high probability the it will {}'.format(result))
      
 if __name__=='__main__':
     main()
