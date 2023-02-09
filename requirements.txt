@@ -1,6 +1,7 @@
-pickle5
-sklearn
-numpy
-Pandas
+
+
+"pickle5"
+"sklearn"
+"numpy"
 
 
